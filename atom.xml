@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MagainBoss的博客</title>
+  
+  <subtitle>来点乐子</subtitle>
+  <link href="https://magainboss.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="https://magainboss.github.io/project/"/>
+  <updated>2024-04-06T08:03:43.889Z</updated>
+  <id>https://magainboss.github.io/project/</id>
+  
+  <author>
+    <name>MagainBoss</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://magainboss.github.io/project/2024/04/06/hello-world/"/>
+    <id>https://magainboss.github.io/project/2024/04/06/hello-world/</id>
+    <published>2024-04-06T08:03:43.889Z</published>
+    <updated>2024-04-06T08:03:43.889Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
