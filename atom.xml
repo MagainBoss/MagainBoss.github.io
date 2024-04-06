@@ -3,11 +3,11 @@
   <title>MagainBoss的博客</title>
   
   <subtitle>来点乐子</subtitle>
-  <link href="https://magainboss.github.io/project/atom.xml" rel="self"/>
+  <link href="https://magainboss.github.io/atom.xml" rel="self"/>
   
-  <link href="https://magainboss.github.io/project/"/>
+  <link href="https://magainboss.github.io/"/>
   <updated>2024-04-06T08:03:43.889Z</updated>
-  <id>https://magainboss.github.io/project/</id>
+  <id>https://magainboss.github.io/</id>
   
   <author>
     <name>MagainBoss</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://magainboss.github.io/project/2024/04/06/hello-world/"/>
-    <id>https://magainboss.github.io/project/2024/04/06/hello-world/</id>
+    <link href="https://magainboss.github.io/2024/04/06/hello-world/"/>
+    <id>https://magainboss.github.io/2024/04/06/hello-world/</id>
     <published>2024-04-06T08:03:43.889Z</published>
     <updated>2024-04-06T08:03:43.889Z</updated>
     
