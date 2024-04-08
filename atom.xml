@@ -6,7 +6,7 @@
   <link href="https://magainboss.github.io/atom.xml" rel="self"/>
   
   <link href="https://magainboss.github.io/"/>
-  <updated>2024-04-06T08:03:43.889Z</updated>
+  <updated>2024-04-08T09:30:10.879Z</updated>
   <id>https://magainboss.github.io/</id>
   
   <author>
@@ -17,23 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://magainboss.github.io/2024/04/06/hello-world/"/>
-    <id>https://magainboss.github.io/2024/04/06/hello-world/</id>
-    <published>2024-04-06T08:03:43.889Z</published>
-    <updated>2024-04-06T08:03:43.889Z</updated>
+    <title>使用RSS和种子下载来订阅番剧</title>
+    <link href="https://magainboss.github.io/2024/04/07/RSS-subscription-for-anime/"/>
+    <id>https://magainboss.github.io/2024/04/07/RSS-subscription-for-anime/</id>
+    <published>2024-04-07T10:30:15.000Z</published>
+    <updated>2024-04-08T09:30:10.879Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;使用RSS和种子下载来订阅番剧&quot;&gt;&lt;a href=&quot;#使用RSS和种子下载来订阅番剧&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="技术" scheme="https://magainboss.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="RSS" scheme="https://magainboss.github.io/tags/RSS/"/>
+    
+    <category term="种子" scheme="https://magainboss.github.io/tags/%E7%A7%8D%E5%AD%90/"/>
+    
+    <category term="番剧" scheme="https://magainboss.github.io/tags/%E7%95%AA%E5%89%A7/"/>
     
   </entry>
   
